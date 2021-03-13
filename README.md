@@ -1,5 +1,5 @@
 ---
-subject: "Presentation"
+subject: "Github Profile"
 type: "Readme.md"
 author: "Eskabore"
 description: "Short introduction to technical skills and current objectives"
@@ -18,7 +18,7 @@ updated: "2021-03-13, Sat"
 <h3 align="left">Currently coding with:</h3>
   <p id="lang-stats">  
 <img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eskabore&layout=compact&langs_count=10" >
-<img id="lang-stats" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eskabore">
+<img id="lang-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eskabore">
 </p>
 
 <h3>Blogs posts:</h3> 
