@@ -1,43 +1,44 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eskabore&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Eskabore)](https://github.com/anuraghazra/github-readme-stats)
+---
+subject: "Github Profile"
+type: "Readme.md"
+author: "Eskabore"
+description: "Short introduction to technical skills and current objectives"
+updated: "2021-03-13, Sat"
+---
 
-# Career Personal Objectives
-   - Becoming a competent Full-Stack React-Developer:
-   By maintaining a Web tools & librairies niche, development becomes safer and better structured.
-   ReactJS, GraphQL,... gives the possibilty to mount a project at speed never seen before.
-   By becoming a specialist, I will better serve customers and achieve project excellency 
-   Personally, my motivation is to become renowned in this very domain while enjoying great reputation
-   - Setting up an OP customizable SSOT for web-developers. 
-   It enables an Org. member with Administrator access level, to edit documentation, manage access rights,  publishing...
-   As unique value, end-users will have a simple but powerful UI that will send notifications in 
-   order to alert about better developer-stack options, compatibility among tools or apps, deprecated packages and more.
-   Thanks reliable APIs, new t oo
-   The tools is a time-saver for new and experimented web professionals.
-     > Ex. features:
-       * 	 Automated global search of methodologies and technologies, that makes our engine the best IT-consultant for your Development-LifeCycle
-	   *     Highly customizable, the UI is able to adapt its look, layout, and action buttons depending on user activity and access rights
-	   
-
-## Objectives 
-
-- [ ] Showcase programming readability, skills and scope.
-- [ ] Showcase personal investment into developing knowledge, IT-related topics & environment, management & project overview capabilities.
-- [ ] Demonstrate  resilience into achieving objectives that include complex tasks and processes over time.
-
-
-
-## Skills:
-
-  ### Technology
+<h1 align="center">Hi 👋, I'm Eskabore</h1>  
+<h3 align="center">A passionate frontend developer living in Germany</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eskabore&label=Profile%20views&color=0e75b6&style=flat" alt="eskabore" /> &nbsp <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fluc_turquin"></p>  
   
-  ### Spoken Languages
+<h3 id="trophies">Github trophies:</h3>
+<p id="trophies" align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a> </p>  
   
-  - French
-  - English
-  - German
-  - Spanish
-  - Polonais
-  
- ## Contact information
- 
-*_What's App_* (only!): 
+  ## My pinned repositories ...
+
+- [x] Showcase programming readability, skills and scope.
+- [x] Showcase personal investment into developing knowledge, IT-related topics & environment, management & project overview capabilities.
+- [x] Demonstrate  resilience into achieving objectives that include complex tasks and processes over time.
+
+### Github' stats overview (2021)
+<img src="https://github-readme-stats.vercel.app/api?username=Eskabore&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Eskabore's+Stats">
+
+\- 💬 Ask me about 
+**ReactJS**, **Gatsby**, **GraphQL**, **Version Control**
+
+\- 👯 I’m looking to **collaborate** on
+><p><a href="https://firebase.google.com/" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/google\_cloud/google\_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<br></>
+\- ➡️ **Follow me on:**
+><p>  
+<a href="https://codepen.io/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
+<a href="https://dev.to/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
+<a href="https://twitter.com/luc\_turquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc\_turquin" height="30" width="40" /></a>  
+<a href="https://codesandbox.com/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eskabore" height="30" width="40" /></a> 
+</p>
+<br></br>
+
+<h3 align="left">Currently coding with:</h3>
+  <p id="lang-stats">  
+<img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eskabore&layout=compact&langs_count=10" >
+</p>
+
