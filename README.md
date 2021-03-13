@@ -34,4 +34,4 @@ updated: "2021-03-13, Sat"
 </p>
 
 <h3>Stats Overview</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eskabore&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Eskabore's+Stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eskabore&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Eskabore's+Stats)
