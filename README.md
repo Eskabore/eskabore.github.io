@@ -1,20 +1,20 @@
 ---
-folder: "Daily Notes"
-title: "What for today ?"
-date: 2021-03-08, lundi
-time: 00:13
-updated: '2021-03-08, 00:13'
+author: "Eskabore"
+wf_featured_image: /i.postimg.cc/jd7ZfBd2/Logo2.png
+date: {{date:YYYY-MM-DD, dddd}}
+time: {{time:HH:mm}}
+description: | "Short introduction to technical skills and current objectives"
 ---
 
 <h1 align="center">Hi 👋, I'm Eskabore</h1>  
-<h3 align="center">A passionate frontend developer living in Germany</h3> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eskabore&label=Profile%20views&color=0e75b6&style=flat" alt="eskabore" /> </p>  
+<h3 align="center">A passionate frontend developer living in Germany</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eskabore&label=Profile%20views&color=0e75b6&style=flat" alt="eskabore" /> </p>  
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a> </p>  
+<p align="left"> <header> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a> </p>  
   
-\- 💬 Ask me about \*\*ReactJS\*\*  
+\- 💬 Ask me about **ReactJS**, **Gatsby**, **GraphQL**, **Version Control** 
   
-\### Blogs posts  
+\## Blogs posts  
 <!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->  
   
