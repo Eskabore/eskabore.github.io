@@ -13,6 +13,13 @@ updated: "2021-03-13, Sat"
 <h3 id="trophies">Github trophies:</h3>
 <p id="trophies" align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eskabore" alt="eskabore" /></a> </p>  
   
+  ## My pinned repositories ...
+
+- [ ] Showcase programming readability, skills and scope.
+- [ ] Showcase personal investment into developing knowledge, IT-related topics & environment, management & project overview capabilities.
+- [ ] Demonstrate  resilience into achieving objectives that include complex tasks and processes over time.
+
+
 \- 💬 Ask me about 
 **ReactJS**, **Gatsby**, **GraphQL**, **Version Control**
 
@@ -30,8 +37,5 @@ updated: "2021-03-13, Sat"
 <h3 align="left">Currently coding with:</h3>
   <p id="lang-stats">  
 <img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eskabore&layout=compact&langs_count=10" >
-<img id="lang-stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Eskabore">
 </p>
 
-<h3>Stats Overview</h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eskabore&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Eskabore's+Stats)
