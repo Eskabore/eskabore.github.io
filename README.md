@@ -15,25 +15,28 @@ updated: "2021-03-13, Sat"
   
   ## My pinned repositories ...
 
-- [ ] Showcase programming readability, skills and scope.
-- [ ] Showcase personal investment into developing knowledge, IT-related topics & environment, management & project overview capabilities.
-- [ ] Demonstrate  resilience into achieving objectives that include complex tasks and processes over time.
+- [x] Showcase programming readability, skills and scope.
+- [x] Showcase personal investment into developing knowledge, IT-related topics & environment, management & project overview capabilities.
+- [x] Demonstrate  resilience into achieving objectives that include complex tasks and processes over time.
 
+### Github' stats overview (2021)
+<img src="https://github-readme-stats.vercel.app/api?username=Eskabore&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Eskabore's+Stats">
 
 \- 💬 Ask me about 
 **ReactJS**, **Gatsby**, **GraphQL**, **Version Control**
 
-\- 👯 I’m looking to collaborate on
+\- 👯 I’m looking to **collaborate** on
 ><p><a href="https://firebase.google.com/" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/google\_cloud/google\_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="\_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="\_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-<br></br>
-\- ➡️ Follow me on:
-<p>  
+<br></>
+\- ➡️ **Follow me on:**
+><p>  
 <a href="https://codepen.io/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="eskabore" height="30" width="40" /></a>  
 <a href="https://dev.to/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eskabore" height="30" width="40" /></a>  
 <a href="https://twitter.com/luc\_turquin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="luc\_turquin" height="30" width="40" /></a>  
 <a href="https://codesandbox.com/eskabore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="eskabore" height="30" width="40" /></a> 
-<br></br>
 </p>
+<br></br>
+
 <h3 align="left">Currently coding with:</h3>
   <p id="lang-stats">  
 <img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eskabore&layout=compact&langs_count=10" >
