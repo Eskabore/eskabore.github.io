@@ -41,4 +41,3 @@ updated: "2021-03-13, Sat"
   <p id="lang-stats">  
 <img id="lang-stats" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eskabore&layout=compact&langs_count=10" >
 </p>
-
